@@ -1,0 +1,6 @@
+
+
+
+[env]
+
+RUST_LOG = "axum_project=debug"
